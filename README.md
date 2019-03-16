@@ -1,2 +1,2 @@
 # Algoproject
-A* implementation in python
+A*  and JPS implementation in python
