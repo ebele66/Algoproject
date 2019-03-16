@@ -6,7 +6,7 @@ from JPS import jps
 
 
 def main():
-    filename = input('Enter a filename: ')
+    filename = "testmap.txt"
     maze = populate_grid(filename)
     start = (1, 1)
     end = (8, 20)
